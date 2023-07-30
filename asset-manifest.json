@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-clock/static/css/main.dc51f65e.css",
+    "main.js": "/react-clock/static/js/main.a0ab9343.js",
+    "static/media/beepSound.mp3": "/react-clock/static/media/beepSound.2e4f9ee5476c9356c8af.mp3",
+    "index.html": "/react-clock/index.html",
+    "main.dc51f65e.css.map": "/react-clock/static/css/main.dc51f65e.css.map",
+    "main.a0ab9343.js.map": "/react-clock/static/js/main.a0ab9343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc51f65e.css",
+    "static/js/main.a0ab9343.js"
+  ]
+}
